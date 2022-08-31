@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">YourShopApplication</string>
+    <string name="web_client" translatable="false">909258993462-et7l3h16j97c38avj8qc0kbtj0ilg9ng.apps.googleusercontent.com</string>
+    <string name="facebook_app_id" translatable="false">5094814243920564</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1234</string>
+    <string name="facebook_client_token" translatable="false">56789</string>
+    <string name="signin_google">Sign in with Google</string>
+    <string name="signin_facebook">Sign in with Facebook</string>
+    <string name="new_store">Create a new store</string>
+    <string name="clone_store">Clone your existing store</string>
+    <string name="wait">Please wait...</string>
+    <string name="signin_success">Sign in success!</string>
+    <string name="signout_success">Sign out success!</string>
+    <string name="signin">Sign in</string>
+    <string name="signout">Sign out</string>
+    <string name="signup">Sign up</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="submit">Submit</string>
+    <string name="signup_manager">Sign up manager user</string>
+    <string name="confirm_pass">Confirm password</string>
+    <string name="have_to_sign_up_manager">You have to sign up the manager account to use this feature</string>
+    <string name="duplicate_user">This username is already exists</string>
+    <string name="confirm_not_correct">Confirm password not correct</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty">Username, password and confirm password can not be empty</string>
+    <string name="open_navigation" translatable="false">Open navigation</string>
+    <string name="close_navigation" translatable="false">Close navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+</resources>

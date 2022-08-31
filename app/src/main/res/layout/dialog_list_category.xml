@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/custom_body_dialog"
+    android:paddingBottom="30dp"
+    >
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Danh sách các danh mục"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:background="@drawable/custom_top_dialog"
+        android:gravity="center"
+        android:padding="10dp"
+        ></TextView>
+    <TextView
+        android:id="@+id/txt_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Click để chọn danh mục cho sản phẩm"
+        ></TextView>
+    <ListView
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/listview_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></ListView>
+    <!--    <View-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent"-->
+    <!--        android:background="@drawable/custom_bottom_dialog"-->
+    <!--        ></View>-->
+</LinearLayout>
